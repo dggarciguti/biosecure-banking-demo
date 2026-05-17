@@ -1,0 +1,29 @@
+# Core scientific stack
+numpy==1.26.4
+scipy==1.13.1
+matplotlib==3.8.4
+
+# Vision and media
+opencv-python==4.9.0.80
+mediapipe==0.10.21
+pillow==10.4.0
+pygame==2.5.2
+
+# Deep learning
+tensorflow==2.15.0
+tf-keras==2.15.0
+torch==2.3.0
+torchvision==0.18.0
+torchaudio==2.3.0
+
+# Face and gaze analysis
+deepface==0.0.95
+retina-face==0.0.17
+l2cs @ git+https://github.com/edavalosanaya/L2CS-Net.git@main
+protobuf==4.25.3
+
+# Audio generation helper
+gTTS==2.5.1
+
+# Utilities
+tqdm==4.66.5
